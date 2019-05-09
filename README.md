@@ -1,10 +1,23 @@
-citemap.py
-==========
+# Initial page
 
-Maps the web of shared citations between authors + affiliation. 
+## Getting Super Powers
 
-Relies heavily on scholar.py by Chrisan Kreibich. It is a Python module that implements a querier and parser for Google Scholar's output. 
+Becoming a super hero is a fairly straight forward process:
 
-License
--------
-citemap.py is using the standard [BSD license](http://opensource.org/licenses/BSD-2-Clause).
+```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
+
